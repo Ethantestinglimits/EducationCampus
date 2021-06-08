@@ -297,6 +297,7 @@ body.fixed {
   justify-content: flex-end;
   padding: 0 30px 11.5vh;
   height: 100%;
+  background-image: url("");
 }
 .wrapper section.mainSection .content .mainSectionRow {
   display: flex;
