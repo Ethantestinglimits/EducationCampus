@@ -162,7 +162,7 @@ body.fixed {
 }
 .wrapper header.header {
   z-index: 99;
-  padding: 30px;
+  padding: 20px;
   position: absolute;
   top: 0;
   width: 100%;
